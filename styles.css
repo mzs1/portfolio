@@ -1,20 +1,17 @@
 <style>
     
-    div.container {
+div.container {
     background-color: #e7e3ec;
-
 }
 
 body {
     background-color: #e7e3ec;
-
 
 }
     h1._header_{
         background-color: #b5b1ba;
         text-align: center;
             border-bottom: 4px solid #363636;
-
 
     }
     div._title{
@@ -28,22 +25,18 @@ body {
     }
     div.r_2{
         margin-top: 150px;
-/*         border: 4px solid #56565A;*/
             border-radius: 8px;
         background-color: #c6bfc9;
     }
  
-    
     div.a_2 {
+        
     direction: rtl;
     text-align: justify;
-
-   
-
+        
 }
     div.a_1{
             text-align: center;
-
     }
     
     img.img_1{
@@ -51,10 +44,11 @@ body {
     max-height: 70%;
         margin-top: 50px;
     }
+    
     div._links{
        text-align: center;
+ }
 
-    }
 .fa {
   padding: 8px;
   font-size: 30px;
@@ -69,7 +63,6 @@ body {
           background: #b5b1ba;
         margin-top: 190px;
         border-top:3px solid #363636;
-
     }
 
 
@@ -96,7 +89,6 @@ body {
 #borderimg { 
     border: 10px solid transparent;
     padding: 0px;
-    
     border-image: url(https://pageborders.org/files/images/gray-chevron-border-preview.png) 20 stretch;
 }
 .col-1 {width: 8.33%;}
@@ -113,7 +105,6 @@ body {
 .col-12 {width: 100%;}
 
 @media only screen and (max-width: 768px) {
-    /* For mobile phones: */
     [class*="col-"] {
         width: 100%;
     }
